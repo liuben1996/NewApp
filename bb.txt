@@ -100,7 +100,7 @@
 		</div>
 		
 		<div id="banquandiv">
-			<a>版权所属</a>
+			<a>版权de所属</a>
 		</div>
 	</body>
 
